@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container_1{
+    background-image: url(bg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 90%;
+    background-size: cover;
+    margin-top: 50PX;
+    margin-left:60px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.sub_container1{
+    height: 100px;
+    width: 70%;
+    background-color:#eee;
+    position: absolute;
+    bottom: 20px;
+    left:170px;
+    border-radius: 5px;
+}
+
+.text1{
+    text-align: left;
+    padding: 10px;
+}
+
+.sub_container2{
+    height: 20px;
+    width: 10%;
+    background-color:rgba(0, 0, 0, 0.759);
+    position: absolute;
+    bottom: 10px;
+    left:45%;
+    border-radius: 5px;
+}
+
+.date{
+    text-align: center;
+    padding-top:3px ;
+    color: white;
+}
+
+.container_2{
+    height: 400px;
+    width: 100%;
+    margin-top: 150px;
+    background-image: url(bg1.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text2{
+    text-align: left;
+    padding: 50px  150px;
+}
+
+.text3{
+    padding-bottom: 50px;
+}
+
+.modle{
+    color:blue;
+}
+
+.container3{
+    height: 200px;
+    max-width:100%;
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 10px 200px;
+}
+
+.container4{
+    height: 150px;
+    max-width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.356);
+    margin: 40px 150px;
+    border-radius:5px ;
+    position: relative;
+}
+
+.container4_text{
+    text-align: left;
+    padding: 30px 100px;
+    position: absolute;
+    top: 10px;
+    right:100px ;
+}
+
+.code{
+    padding: 20px 70px;
+}
+
+.share{
+
+    margin: 10px 100px;
+}
+
+.flex{
+    display: flex;
+    position: relative;
+}
+
+.icon{
+    padding-right:30px;
+    position: absolute;
+    left: 200px;
+    top: 10px;
+}
+
+.last_div{
+    display: flex;
+    height: 100px;
+    max-width:100%;
+    position: relative;
+}
+
+.last_text1{
+    padding:10px 80px;
+
+}
+
+.last_text2{
+    position: absolute;
+    right: 70px;
+    top: 10px;
+}
